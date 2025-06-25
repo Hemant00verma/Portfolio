@@ -255,7 +255,7 @@ body {
   width: 100%;
 }
 .menu-icon {
-  font-size: 50px;
+  font-size: 25px;
   font-weight: bold;
   color: var(--line-color);
   cursor: pointer;
