@@ -1,0 +1,72 @@
+[
+  {
+  
+    "skillImage": "html5.svg",
+    "skillName": "HTML5"
+  },
+  {
+  
+    "skillImage": "css3.svg",
+    "skillName": "CSS3"
+  },
+  {
+  
+    "skillImage": "talwindcss.svg",
+    "skillName": "talwind css"
+  },
+  {
+  
+    "skillImage": "bootstrap.svg",
+    "skillName": "Bootstrap"
+  },
+  {
+    
+    "skillImage": "js.svg",
+    "skillName": "Java Script"
+  },
+  {
+    
+    "skillImage": "nodejs.svg",
+    "skillName": "node js"
+  },
+  {
+    
+    "skillImage": "expressjs.svg",
+    "skillName": "Express Js"
+  },
+  {
+
+    "skillImage": "reactjs.svg",
+    "skillName": "React Js"
+  },
+  {
+
+    "skillImage": "nextjs.svg",
+    "skillName": "Next Js"
+  },
+  {
+    
+    "skillImage": "vite.svg",
+    "skillName": "vite"
+  },
+   {
+    
+    "skillImage": "java.svg",
+    "skillName": "java"
+  },
+   {
+    
+    "skillImage": "git.svg",
+    "skillName": "git"
+  },
+   {
+    
+    "skillImage": "cpp.svg",
+    "skillName": "cpp"
+  },
+   {
+    
+    "skillImage": "c.svg",
+    "skillName": "c"
+  }
+]

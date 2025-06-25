@@ -1,0 +1,35 @@
+[
+  {
+    "title": "website hosting",
+    "image": "public/img/project1.jpg",
+    "description": "A tool for reviewing and commenting on code.",
+    "techStack": "html,css",
+    "demoLink": "https://demo.com",
+    "githubLink": "https://github.com/project1"
+  },
+   {
+    "title": "portfolio template",
+    "image": "public/img/project1.jpg",
+    "description": "A tool for reviewing and commenting on code.",
+    "techStack": "html,css",
+    "demoLink": "https://demo.com",
+    "githubLink": "https://github.com/project1"
+  },
+   {
+    "title": "e-commerce website ",
+    "image": "public/img/project1.jpg",
+    "description": "A tool for reviewing and commenting on code.",
+    "techStack": "html,css",
+    "demoLink": "https://demo.com",
+    "githubLink": "https://github.com/project1"
+  },
+   {
+    "title": "animated website",
+    "image": "public/img/project1.jpg",
+    "description": "A tool for reviewing and commenting on code.",
+    "techStack": "html,css,js,gsap",
+    "demoLink": "https://demo.com",
+    "githubLink": "https://github.com/project1"
+  }
+ 
+]
