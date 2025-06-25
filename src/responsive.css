@@ -134,6 +134,12 @@
     top: 60%;
   }
 /* about-section */
+#ab{
+  font-size: 5.2rem !important;
+}
+#abc{
+  font-size: 2.3rem !important;
+}
 .about-section{
   padding-top: 0;
 }
