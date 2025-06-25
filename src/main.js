@@ -24,7 +24,7 @@ gsap.from(".right-section img", {
   }
   
 });
-fetch('public/api/skill.json')
+fetch('/api/skill.json')
   .then(response => response.json())
   .then(data => {
     const container = document.getElementById('skill-box');
@@ -34,7 +34,7 @@ fetch('public/api/skill.json')
       skillDiv.className = 'btn';
 
       skillDiv.innerHTML = `
-        <img src="public/img/${skill.skillImage}" alt="" width="50" />
+        <img src="/img/${skill.skillImage}" alt="" width="50" />
         <h4>${skill.skillName}</h4>
       `;
 
@@ -42,7 +42,7 @@ fetch('public/api/skill.json')
     });
   })
   .catch(error => console.error('Error fetching skills:', error));
-  fetch('public/api/project.json')
+  fetch('/api/project.json')
   .then(response=> response.json())
   .then(data=>{
     const pContainer=document.getElementsByClassName('box-container')
